@@ -1,5 +1,5 @@
 
-# NianYun念云机场官方地址(2026年8月21日更新)
+# NianYun念云机场官方地址(2026年8月22日更新)
 NianYun念云机场官网地址</br>
 官方地址：[xnyun.wiki](https://to.iix.im/xny01)（中国大陆无法访问）</br>
 ## 邀请码
