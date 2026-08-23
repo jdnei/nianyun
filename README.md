@@ -1,7 +1,14 @@
 
 # NianYun念云机场官方地址(2026年8月23日更新)
 NianYun念云机场官网地址</br>
+最新地址：[xnyun.wiki](https://to.iix.im/xny01)（中国大陆无法访问）</br>
 官方地址：[xnyun.wiki](https://to.iix.im/xny01)（中国大陆无法访问）</br>
+
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 邀请码
 ```bash
 LPoFUpAL
