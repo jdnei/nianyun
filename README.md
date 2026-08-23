@@ -23,9 +23,15 @@ NianYun念云机场支持SS、Trojan、Hysteria2、VLESS、AnyTLS等多种协议
 | 长情伴 | ¥89/一次性 | 1000 GB（一次性到账） | 2500 Mbps | 4 台 | 一次性                   | —              | 流量不按月重置，用完或到期即止，适合资料查阅、出差及备用，与常规套餐共享中转节点              |
 
 ## 📊 性能实测与分析  
-#### 1.晚高峰测速表现  
-![image](?raw=ture)  
+#### 1.1联通晚高峰测速表现  
+![image](https://github.com/jdnei/nianyun/blob/main/nianyun/438572347507cucc.jpg?raw=ture)</br>
+#### 1.2电信晚高峰测速表现  
+![image](https://github.com/jdnei/nianyun/blob/main/nianyun/4837520347590ctcc.jpg?raw=ture)</br>
+#### 1.3移动晚高峰测速表现  
+![image](https://github.com/jdnei/nianyun/blob/main/nianyun/4527435703495cmcc.jpg?raw=ture)</br>
 #### 2.流媒体解锁报告  
-![image](?raw=ture)    
-#### 3.落地入口分析  
-![image](?raw=ture)
+![image](https://github.com/jdnei/nianyun/blob/main/nianyun/94735203475test.png?raw=ture)</br>  
+#### 3.AI解锁报告  
+![image](https://github.com/jdnei/nianyun/blob/main/nianyun/49520934580ai.jpg?raw=ture)</br> 
+#### 4.落地入口分析  
+![image](https://github.com/jdnei/nianyun/blob/main/nianyun/4570349570ana.png?raw=ture)</br>
