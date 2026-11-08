@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی فیلترشکن XnYun NianYun(به‌روزرسانی 7 نوامبر 2026)
+# وب‌سایت رسمی فیلترشکن XnYun NianYun(به‌روزرسانی 8 نوامبر 2026)
 وب‌سایت رسمی فیلترشکن XnYun NianYun<br>
 جدیدترین آدرس ۰۱: [xnncl.com](https://to.iix.im/xny01)<br>
 جدیدترین آدرس ۰۲: [xnyun.wiki](https://to.iix.im/xny01)<br>

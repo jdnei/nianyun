@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт XnYun NianYun VPN (обновлено 7 ноября 2026)
+# Официальный сайт XnYun NianYun VPN (обновлено 8 ноября 2026)
 
 Официальный сайт XnYun NianYun VPN<br>
 Новый адрес 01: [xnncl.com](https://to.iix.im/xny01)<br>
